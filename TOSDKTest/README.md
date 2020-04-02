@@ -1,0 +1,1 @@
+sudo ./build.sh //自动打包
